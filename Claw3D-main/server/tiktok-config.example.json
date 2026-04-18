@@ -1,0 +1,7 @@
+{
+  "TIKTOK_CLIENT_KEY": "",
+  "TIKTOK_CLIENT_SECRET": "",
+  "TIKTOK_ACCESS_TOKEN": "",
+  "TIKTOK_REFRESH_TOKEN": "",
+  "_instructions": "Fill in your TikTok Developer API credentials. See https://developers.tiktok.com/doc/content-posting-api-get-started"
+}

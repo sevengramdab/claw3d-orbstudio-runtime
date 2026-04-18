@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-15T00:00:00.000Z",
+  "activeJob": null,
+  "completedJobs": [
+    {
+      "id": "pipeline-001",
+      "status": "published",
+      "trendBrief": {
+        "format": "Satisfying Process Loop",
+        "hashtags": ["#satisfying", "#aiart", "#fyp", "#generativeart"],
+        "targetDuration": 12
+      },
+      "videoPath": "generated-videos/satisfying-morph-001.mp4",
+      "uploadId": "pub-7382940123",
+      "tiktokUrl": "https://www.tiktok.com/@yourchannel/video/7382940123",
+      "startedAt": "2026-04-14T18:00:00.000Z",
+      "completedAt": "2026-04-14T18:02:30.000Z"
+    }
+  ],
+  "metrics": {
+    "totalVideos": 1,
+    "totalViews": 28400,
+    "totalLikes": 2310,
+    "avgEngagementRate": 8.1
+  }
+}
