@@ -15,4 +15,23 @@ Excluded:
 - generated artifacts and temporary build files
 - runtime logs and machine-specific state
 
-Use `Claw3D-main/.env.example` to configure local gateway settings before launching.
+## Run
+
+1. Configure your environment:
+   - copy `Claw3D-main/.env.example` to `Claw3D-main/.env`
+   - update gateway and local settings as needed
+
+2. Install dependencies:
+   - Python: ensure Python 3.11+ is available
+   - Node: install dependencies in `Claw3D-main/` if you plan to run the Next.js app
+
+3. Launch the runtime:
+   ```bash
+   python LAUNCH_CLAW3D.py
+   ```
+
+This starts the Claw3D launch flow and OrbStudio support.
+
+## GitHub Actions
+A lightweight CI workflow is included at `.github/workflows/python-package.yml`.
+It installs Python tooling and verifies syntax for all Python files in the repository.
